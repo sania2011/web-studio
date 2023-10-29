@@ -1,0 +1,269 @@
+.logo{
+    font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+line-height: 31px;
+letter-spacing: 0.03em;
+color: #2196F3;
+}
+.logo-header{
+    font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+line-height: 31px;
+letter-spacing: 0.03em;
+color: #000000;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.nav-list-link{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: #000000;
+}
+.contacts-list-link{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0.02em;
+color:  #757575;
+
+
+}
+.contacts-list-link:hover, .nav-list-link:hover{
+    color: #2196F3;
+}
+.section-hero-title{
+    font-family: Roboto;
+font-size: 44px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0.06em;
+text-align: center;
+color: #FFFFFF;
+width: 696px;
+margin: 0 auto;
+border: none;
+}
+.section-hero-btn{
+    width: 216px;
+    height: 50px;
+    border-radius: 4px;
+    background-color:#2196F3;
+    color:#FFFFFF;
+    border: none;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.features-list-title{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 700;
+line-height: 16px;
+letter-spacing: 0.03em;
+color:#212121;
+}
+.features-list-text{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+color:#757575;
+}
+
+.logo-footer{
+    color: #FFFFFF;
+}
+
+.addres-list-link{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.03cm;
+    color: #FFFFFF;
+}
+
+.section-work-title{
+    font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0.03em;
+text-align: center;
+color: #212121;
+}
+.work-team-title{
+    font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0.03em;
+text-align: center;
+color:  #212121;
+
+}
+
+.headr{
+    display: flex;
+}
+
+.contacts-list-link:hover, .nav-list-link:hover{
+    color: #2196F3;
+}
+
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 94px;
+}
+
+.contacts-list{
+    display: flex;
+    gap: 20px;
+}
+
+.nav-list{
+    display: flex;
+    gap: 50px;
+}
+
+.section-hero{
+    background: #2F303A;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.features-list{
+display: flex;
+justify-content: center;
+gap: 30px;
+}
+
+.features-list-item{
+    max-width: 270px;
+}
+
+.section-features{
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+
+ul, p, h1, h2,h3,h4,h5{
+margin: 0;
+padding: 0;
+}
+
+address{
+font-style: normal;
+}
+
+.work-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px
+}
+
+.section-work{
+padding-bottom: 94px;
+}
+
+.work-team{
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+
+.section-work-title,.work-team-title{
+    margin-bottom: 30px;
+}
+
+.section-features{
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+
+.footer{
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+.box{
+    width: 1200px;
+    margin: 0;
+}
+
+body{
+    margin: 0;
+}
+
+.nav-list-link{
+    padding: 32px;
+    padding-bottom: 32px;
+}
+
+.buttons-list{
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 34px;
+}
+
+.partfolio-list{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    gap: 30px;
+}
+
+.team-list{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.footer{
+    background-color: #212121;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.box{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.section-team{
+padding-top: 94px;
+padding-bottom: 94px;
+}
+
+.section-team-title{
+    text-align: center;
+    margin-bottom:50px ;
+}
+
+.partfolio-section{
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+
+.battons-list{
+display: flex;
+justify-content: center;
+gap: 8px;
+margin-bottom: 34px;
+}
